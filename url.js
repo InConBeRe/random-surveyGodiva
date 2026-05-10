@@ -8,7 +8,18 @@
 
 
 const urls = [
-	 'https://www.surveycake.com/s/Bo0Py',   // 1.Pre AI
+	 // Godiva
+    'https://www.surveycake.com/s/3XbKM',   // 1.Pre AI
+    'https://www.surveycake.com/s/rL2Ro',   // 2.Pre AU
+    'https://www.surveycake.com/s/W2XDv',   // 3.Pro AI
+    'https://www.surveycake.com/s/xk1e8',   // 4.Pro Au
+    'https://www.surveycake.com/s/8ZyLP',   // O1.Pre AI
+    'https://www.surveycake.com/s/7z341',   // O2.Pre AU
+    'https://www.surveycake.com/s/YVmWz',   // O3.Pro AI
+    'https://www.surveycake.com/s/9MQaa',   // O4.Pro Au
+
+    // Cologate
+    'https://www.surveycake.com/s/Bo0Py',   // 1.Pre AI
     'https://www.surveycake.com/s/AvoQP',   // 2.Pre AU
     'https://www.surveycake.com/s/3XOyM',   // 3.Pro AI
     'https://www.surveycake.com/s/ZzerG'    // 4.Pro Au
