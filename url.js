@@ -8,19 +8,13 @@
 
 
 const urls = [
-	 // Godiva
-    'https://www.surveycake.com/s/3XbKM',   // 1.Pre AI
-    'https://www.surveycake.com/s/rL2Ro',   // 2.Pre AU
-    'https://www.surveycake.com/s/W2XDv',   // 3.Pro AI
-    'https://www.surveycake.com/s/xk1e8',   // 4.Pro Au
-    'https://www.surveycake.com/s/8ZyLP',   // O1.Pre AI
-    'https://www.surveycake.com/s/7z341',   // O2.Pre AU
-    'https://www.surveycake.com/s/YVmWz',   // O3.Pro AI
-    'https://www.surveycake.com/s/9MQaa',   // O4.Pro Au
-
-    // Cologate
-    'https://www.surveycake.com/s/Bo0Py',   // 1.Pre AI
-    'https://www.surveycake.com/s/AvoQP',   // 2.Pre AU
-    'https://www.surveycake.com/s/3XOyM',   // 3.Pro AI
-    'https://www.surveycake.com/s/ZzerG'    // 4.Pro Au
+	// Cologate
+ 'https://www.surveycake.com/s/mYglB',   // 1.Pre AI
+    'https://www.surveycake.com/s/2kXOr',   // 2.Pre AU
+    'https://www.surveycake.com/s/k8gnZ',   // 3.Pro AI
+    'https://www.surveycake.com/s/q4gNP',   // 4.Pro AU
+    'https://www.surveycake.com/s/Qy2Qn',   // D1.Pre AI
+    'https://www.surveycake.com/s/AvxoA',   // D2.Pre AU
+    'https://www.surveycake.com/s/yX08V',   // D3.Pro AI
+    'https://www.surveycake.com/s/3X2b6'    // D4.Pro AU
 ];
